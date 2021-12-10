@@ -1,0 +1,7 @@
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Cotacao\WFA_Cotacao\bin\Debug\WFA_Cotacao.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Cotacao\WFA_Cotacao\bin\Debug\WFA_Cotacao.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Cotacao\WFA_Cotacao\obj\x86\Debug\WFA_Cotacao.Form1.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Cotacao\WFA_Cotacao\obj\x86\Debug\WFA_Cotacao.Properties.Resources.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Cotacao\WFA_Cotacao\obj\x86\Debug\WFA_Cotacao.csproj.GenerateResource.Cache
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Cotacao\WFA_Cotacao\obj\x86\Debug\WFA_Cotacao.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Cotacao\WFA_Cotacao\obj\x86\Debug\WFA_Cotacao.pdb

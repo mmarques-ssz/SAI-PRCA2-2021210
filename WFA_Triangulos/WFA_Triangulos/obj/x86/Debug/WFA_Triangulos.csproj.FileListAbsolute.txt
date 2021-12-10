@@ -1,0 +1,7 @@
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Triangulos\WFA_Triangulos\bin\Debug\WFA_Triangulos.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Triangulos\WFA_Triangulos\bin\Debug\WFA_Triangulos.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Triangulos\WFA_Triangulos\obj\x86\Debug\WFA_Triangulos.Form1.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Triangulos\WFA_Triangulos\obj\x86\Debug\WFA_Triangulos.Properties.Resources.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Triangulos\WFA_Triangulos\obj\x86\Debug\WFA_Triangulos.csproj.GenerateResource.Cache
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Triangulos\WFA_Triangulos\obj\x86\Debug\WFA_Triangulos.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211210\WFA_Triangulos\WFA_Triangulos\obj\x86\Debug\WFA_Triangulos.pdb
